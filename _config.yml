@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is a web site about Carl Thunman
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://carlthunman.info" # the base hostname & protocol for your site
+timezone: America/New_York
 twitter_username: cthunman
 github_username:  cthunman
 
