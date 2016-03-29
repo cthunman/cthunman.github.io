@@ -16,5 +16,10 @@ layout: default
         </h2>
       </li>
     {% endfor %}
+
+    {% for project in site.projects %}
+      <a class="post-link" href="{{ project.url | prepend: site.github.url }}">{{ project.title }}</a>
+    {% endfor %}
+
   </ul>
 </div>

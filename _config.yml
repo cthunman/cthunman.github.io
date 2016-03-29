@@ -18,3 +18,7 @@ github_username:  cthunman
 
 # Build settings
 markdown: kramdown
+
+collections:
+ projects:
+  output: true

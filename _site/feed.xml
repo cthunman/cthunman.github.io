@@ -6,24 +6,9 @@
 </description>
     <link>http://carlthunman.info/</link>
     <atom:link href="http://carlthunman.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Mar 2016 23:09:16 -0500</pubDate>
-    <lastBuildDate>Sat, 12 Mar 2016 23:09:16 -0500</lastBuildDate>
+    <pubDate>Mon, 28 Mar 2016 23:10:16 -0400</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 23:10:16 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
-    
-      <item>
-        <title>Jekyll Experiments!</title>
-        <description>&lt;p&gt;Learning how to use this thing! Woo!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Mar 2016 23:06:32 -0500</pubDate>
-        <link>http://carlthunman.info/jekyll/update/2016/03/12/jekyll-experiments.html</link>
-        <guid isPermaLink="true">http://carlthunman.info/jekyll/update/2016/03/12/jekyll-experiments.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
     
       <item>
         <title>Yo!</title>
